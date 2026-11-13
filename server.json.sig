@@ -1,1 +1,1 @@
-èB›‹ËB´HwæØÛÿ@Õ’4Ã$ô3"ì¯rÎsÔj(&1Gˆ–ä»õLôÑ^RNÜ\¥èw]pıÇÇ
+{"schema_version":1,"algorithm":"ed25519","key_id":"2026-ed25519-fork-selfhost","signature":"bInF1m0v+oJcM/R/XWQno/pAiKQaMlYrJcXC64dDVgRrr0qHRNmIhGTti2jsWN638OdI6m/WksX/yHqd9CRQBA=="}
